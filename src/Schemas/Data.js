@@ -1,6 +1,6 @@
 export const Data = {
   profile: {
-    name: "Pavel Kostin",
+    name: "Alisa Tkachenko",
     ocupation: "FullStack Software Developer",
     location: "Russia, St. Petersburg",
     email: "kopavalex@yandex.ru",
