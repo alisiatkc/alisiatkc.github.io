@@ -1,16 +1,16 @@
 export const Data = {
   profile: {
-    name: "Pavel Kostin",
-    ocupation: "FullStack Software Developer",
+    name: "Алиса Ткаченко",
+    ocupation: "заведующая лабораторией педагогического технопарка Кванториум им. К. Д. Ушинского",
     location: "Россия, Санкт-Петербург",
-    email: "kopavalex@yandex.ru",
-    telephone: "+7 (981) 761-76-46",
+    email: "alisa.tkc@mail.ru",
+    telephone: "+7 (952) 117-38-81",
     image: "images/IMG_5023.png",
   },
   aboutMe: {
     label: "Обо мне",
     description:
-      "Получил смешанное образование, поэтому могу и программировать и заниматься дизайном интерфейсов.",
+      "РГПУ им. А. И. Герцена, факультет математики 2025г.",
   },
   skills: {
     technicalLabel: "Hard skills",
