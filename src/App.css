@@ -333,6 +333,7 @@ body.dark-theme {
 
 .profile__description {
   text-align: center;
+  white-space: pre-line;
 }
 
 .education__content,
