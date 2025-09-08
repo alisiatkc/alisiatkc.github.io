@@ -59,9 +59,9 @@ export const Data = {
         className: "bxl-github",
       },
       {
-        label: "Pavel Kostin",
+        label: "Tkachenko Alisa",
         name: "telegram",
-        url: "https://t.me/PashaKostin",
+        url: "https://t.me/alisatkc",
         className: "bxl-telegram",
       },
     ],
