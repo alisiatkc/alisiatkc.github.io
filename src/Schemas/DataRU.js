@@ -26,8 +26,7 @@ export const Data = {
       "3D-моделирование и аддитивные технологии",
       "Работа с ЧПУ-оборудованием (лазерные станки)",
       "Фотограмметрия",
-      "
-Adobe Creative Suite (Photoshop, Illustrator, InDesign и др.)",
+      "Adobe Creative Suite (Photoshop, Illustrator, InDesign и др.)",
       "Figma",
       "CorelDRAW",
       "Blender",
@@ -47,18 +46,6 @@ Adobe Creative Suite (Photoshop, Illustrator, InDesign и др.)",
   socialMedia: {
     label: "Contacts",
     social: [
-      {
-        label: "Pavel Kostin",
-        name: "linkedin",
-        url: "https://www.linkedin.com/in/pavel-kostin",
-        className: "bxl-linkedin-square",
-      },
-      {
-        label: "KostinP",
-        name: "github",
-        url: "https://github.com/KostinP",
-        className: "bxl-github",
-      },
       {
         label: "Tkachenko Alisa",
         name: "telegram",
